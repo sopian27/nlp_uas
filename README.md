@@ -108,9 +108,3 @@ Dataset diambil dari:
 > [IMDb Movie Reviews Dataset (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ---
-
-### ✍️ Kontributor
-- Nama: [Masukkan Nama Anda]
-- NIM: [Masukkan NIM]
-- Prodi: [Masukkan Jurusan atau Kelas]
-
